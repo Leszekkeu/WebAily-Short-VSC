@@ -20,7 +20,9 @@
 		"link",
 		"API",
 		"shortly",
-		"url"
+		"url",
+		"short url",
+		"short link"
 	],
 	"activationEvents": [
 		"onCommand:webaily.short"
