@@ -34,6 +34,7 @@ If you find any error in the extension please let me know on [GitHub](https://gi
 
 * **[Checkout my portfolio](https://leszekk.eu)**
 * **[Checkout my GitHub](https://github.com/leszekkorzan)**
+* **[Checkout project on GitHub](https://github.com/leszekkorzan/WebAily-Short-VSC)**
 
 **&copy; 2020 Leszek Korzan** *(leszekk.eu)*
 
