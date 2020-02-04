@@ -25,7 +25,7 @@
 	"activationEvents": [
 		"onCommand:webaily.short"
 	],
-	"icon": "https://raw.githubusercontent.com/leszekkorzan/WebAily-Short-VSC/master/webaily-vsc-ext-logo.png",
+	"icon": "webaily-vsc-ext-logo.png",
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
