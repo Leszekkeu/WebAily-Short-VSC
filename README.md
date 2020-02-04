@@ -13,7 +13,7 @@ Shorten and it will be available as *shortly.page.link/* and *shorter.web.app/* 
 * **support of multiple domains for one shortened link**
 
 
-![feature-gif](feature-gif.gif)
+![feature-gif](https://raw.githubusercontent.com/leszekkorzan/WebAily-Short-VSC/master/feature-gif.gif)
 
 > Tip: Many people want to do everything faster and faster, so thanks to this extension they can shorten links without entering the browser for a long time.
 
