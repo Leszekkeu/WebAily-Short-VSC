@@ -4,6 +4,7 @@
 	"description": "The WebAily extension was created for faster shortening of URLS directly from VSC.",
 	"version": "0.0.1",
 	"repository": "https://github.com/leszekkorzan/WebAily-Short-VSC",
+	"homepage": "https://webaily.web.app",
 	"publisher": "LeszekKorzan",
 	"engines": {
 		"vscode": "^1.41.0"
@@ -24,7 +25,7 @@
 	"activationEvents": [
 		"onCommand:webaily.short"
 	],
-	"icon": "webaily-vsc-ext-logo.png",
+	"icon": "https://raw.githubusercontent.com/leszekkorzan/WebAily-Short-VSC/master/webaily-vsc-ext-logo.png",
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
